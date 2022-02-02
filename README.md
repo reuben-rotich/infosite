@@ -1,2 +1,2 @@
 # infosite
-An information site in html
+An information site.
